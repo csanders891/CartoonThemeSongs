@@ -1,0 +1,21 @@
+ html{
+            text-align: center;
+            background-color: rgb(237, 206, 224);
+}
+
+h1{
+    border: rgb(207, 211, 212) 13mm solid;
+    background-color: #13B;
+    color: red;
+}
+
+h2{
+    border: #713 9px solid;
+    background-color: yellow;
+    padding: 12px;
+}
+
+audio{
+    border: green 7px solid;
+    background-color: rgb(2, 5, 7);
+}
